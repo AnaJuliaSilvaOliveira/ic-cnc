@@ -1,0 +1,14 @@
+****** Channel Overload Info ******
+
+Run folder:
+  C:\SignalCalc\240\testes\usinagem_08_06_2016.trf\Run00007
+
+# of captured frames: 15
+# of clipped chans  : 2
+
+===================================
+  Chan#  # clipped frames  Rate(%)
+===================================
+    1            5          33.33
+    2           14          93.33
+===================================

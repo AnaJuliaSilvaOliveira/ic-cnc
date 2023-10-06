@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<Table_List nTables="#2" U="#0">
+<Table0 Type="Params" NParams="#b" Name="RunInfo" Cat="RunInfo" U="#0" NAR="#b">
+<P0 K="TestName" V="C:\SignalCalc\240\testes\usinagem_08_06_2016.trf" />
+<P1 K="TestDate" V="6/8/2016" />
+<P2 K="RunName" V="" />
+<P3 K="RunNumber" V="00003" />
+<P4 K="RunDate" V="6/8/2016" />
+<P5 K="RunComment" V="" />
+<P6 K="SaveName" V="" />
+<P7 K="SaveTime" V="4:10:49 PM" />
+<P8 K="SaveDate" V="6/8/2016" />
+<P9 K="SaveNumber" V="1" />
+<P10 K="ElapsedTime" V="00:00:39" />
+</Table0>
+<Table1 Type="Params" NParams="#39" Name="Setup" Cat="Setup" U="#0" NAR="#13">
+<P0 K="Fspan" V="2500" />
+<P1 K="Lines" V="3200" />
+<P2 K="AvgNum" V="1" />
+<P3 K="Trigger" V="Free Run" />
+<P4 K="Pacing" V="Off" />
+<P5 K="Step" V="0" />
+<P6 K="DeltaF" V="0.78125" />
+<P7 K="DeltaT" V="  0.00015625" />
+<P8 K="Tspan" V="1.28" />
+<P9 K="Blocksize" V="8192" />
+<P10 K="Overlap" V="0.0%" />
+<P11 K="RPMmode" V="RPM Off" />
+<P12 K="PreviewAverage" V="Off" />
+<P13 K="Frames" V="0" />
+<P14 K="Window" V="Rect" />
+<P15 K="AvgType" V="Stable" />
+<P16 K="WFRecords" V="20" />
+<P17 K="SRSDamping" V="" />
+<P18 K="SRSResolution" V="" />
+<P19 K="Ch.InpInpName.1" V="I1" />
+<P20 K="Ch.InpInpSensitivity.1" V="96.3" />
+<P21 K="Ch.InpInpRange.1" V="10" />
+<P22 K="Ch.InpInpCoupling.1" V="ICP" />
+<P23 K="Ch.InpInpRangeEU.1" V="103.842" />
+<P24 K="Ch.InpInpEU.1" V="g" />
+<P25 K="Ch.InpInpWindow.1" V="Rect" />
+<P26 K="Ch.InpInpComment.1" V="InpInpComment.1 (none) " />
+<P27 K="Ch.InpInpName.2" V="I2" />
+<P28 K="Ch.InpInpSensitivity.2" V="95.2" />
+<P29 K="Ch.InpInpRange.2" V="10" />
+<P30 K="Ch.InpInpCoupling.2" V="ICP" />
+<P31 K="Ch.InpInpRangeEU.2" V="105.042" />
+<P32 K="Ch.InpInpEU.2" V="g" />
+<P33 K="Ch.InpInpWindow.2" V="Rect" />
+<P34 K="Ch.InpInpComment.2" V="InpInpComment.2 (none) " />
+<P35 K="Ch.InpInpName.3" V="I3" />
+<P36 K="Ch.InpInpSensitivity.3" V="95.2" />
+<P37 K="Ch.InpInpRange.3" V="10" />
+<P38 K="Ch.InpInpCoupling.3" V="ICP" />
+<P39 K="Ch.InpInpRangeEU.3" V="105.042" />
+<P40 K="Ch.InpInpEU.3" V="g" />
+<P41 K="Ch.InpInpWindow.3" V="Rect" />
+<P42 K="Ch.InpInpComment.3" V="InpInpComment.3 (none) " />
+<P43 K="Ch.InpInpName.4" V="I4" />
+<P44 K="Ch.InpInpSensitivity.4" V="1000" />
+<P45 K="Ch.InpInpRange.4" V="10" />
+<P46 K="Ch.InpInpCoupling.4" V="AC SE" />
+<P47 K="Ch.InpInpRangeEU.4" V="10" />
+<P48 K="Ch.InpInpEU.4" V="V" />
+<P49 K="Ch.InpInpWindow.4" V="Rect" />
+<P50 K="Ch.InpInpComment.4" V="InpInpComment.4 (none) " />
+<P51 K="Ch.TacTacName.1" V="T1" />
+<P52 K="Ch.TacTacPPR.1" V="1" />
+<P53 K="Ch.TacTacRollDiameter.1" V="1" />
+<P54 K="Ch.TacTacRollDiameterEU.1" V="ft" />
+<P55 K="Ch.TacTacComment.1" V="TacTacComment.1 (none) " />
+<P56 K="Ch.TacTacAngle.1" V="0" />
+</Table1>
+</Table_List>

@@ -1,2 +1,0 @@
-,svm_linear,svm_linear_gridsearch,svm_rbf,svm_rbf_gridsearch,random_forest,random_forset_gridsearch,decision_tree,decision_tree_gridsearch,knn,knn_grid
-accuracy_score,1.0,1.0,0.9508196721311475,0.9754098360655737,0.9918032786885246,0.9918032786885246,0.9918032786885246,0.9918032786885246,0.9262295081967213,0.9590163934426229
