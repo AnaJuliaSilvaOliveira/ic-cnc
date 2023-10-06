@@ -1,0 +1,35 @@
+Experimentos de usinagem
+
+Sistema de aquisição: Data Physics Quattro
+
+Canal 2: Acelerômetro PCB Piezotronics - sens: 99,2mV/g (novos da Maíra) - SN 53357
+Canal 3: Acelerômetro PCB Piezotronics - sens: 99,7mV/g (novos da Maíra) - SN 57009
+
+Direção x: Canal 1
+Direção y: Canal 2
+
+Parâmetros de corte:
+
+ap = 0.25mm - (espessura de corte)
+f = 0.1mm/rev - (avanço)
+r = 0,4mm - (raio de ponta da ferramenta)
+L = 100mm - (comprimento de balanço da ferramenta)
+n = variável - (frequência de rotação do corpo de prova)
+
+Run 5 - Save 1
+n = 630rpm
+
+Run 6 - Save 1
+n = 800rpm
+
+Run 7 - Save 1
+n = 1000rpm
+
+Run 8 - Save 1
+n = 1200rpm
+
+Run 9 - Save 1
+n = 1400 rpm
+
+Run 10 - Save 1
+n=1600 rpm
